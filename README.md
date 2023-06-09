@@ -7,4 +7,4 @@ I also like linux.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cococry)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,python)](https://skillicons.dev)
