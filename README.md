@@ -1,4 +1,4 @@
-# Hey, i'm Cococry 👋
+# Hey, I'm Cococry 👋
 I like programming, espacially in System 
 Languages. I don't do coding as a job.
 I also like linux. 
