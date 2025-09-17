@@ -1,7 +1,6 @@
 # Hey, I'm Cococry 👋
 I like programming, espacially in System 
-Languages. I don't do coding as a job.
-I also like linux. 
+Languages.
 
 ## Here are my stats 🚀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cococry)](https://github.com/anuraghazra/github-readme-stats)
