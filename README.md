@@ -1,1 +1,1 @@
-i'm a cococry
+SIGPIPE
